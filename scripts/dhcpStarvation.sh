@@ -1,3 +1,6 @@
+#
+#Use this script with macchanger installed
+#
 #!/bin/bash
 
 if [ -z "$2" ]
